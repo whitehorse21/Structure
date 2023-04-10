@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'InterReg';
+  src: local('InterReg'), url(./fonts/Inter/static/Inter-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'InterSemiBold';
+  src: local('InterSemiBold'), url(./fonts/Inter/static/Inter-SemiBold.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'InterMed';
+  src: local('InterMed'), url(./fonts/Inter/static/Inter-Medium.ttf) format('truetype');
+}
