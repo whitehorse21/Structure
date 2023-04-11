@@ -19,6 +19,7 @@ const Option = () => {
                 fractions of options.
               </div>
             </div>
+
             <div className="form-controls">
               <div className="control-item">
                 <Input placeholder="Get early access" />
@@ -29,6 +30,7 @@ const Option = () => {
             </div>
           </div>
         </Grid>
+        
         <Grid className="asset-content" item md={6} xs={12}>
           <div className="title">All of your assets, now in one place</div>
           <div className="description">
